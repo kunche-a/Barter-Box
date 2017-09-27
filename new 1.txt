@@ -1,0 +1,38 @@
+Part done by Akhila Kunche and Mrunalini Diwale(together):
+There are four different categories namely:
+Fashion 
+Books
+Electronics
+Furniture
+
+Each category is implemented in a different page since there are four tables, one for each category.
+Each category has individual features based on which one can sort anf filter based on:
+Price (High to Low)
+Price (Low to High)
+Newest product
+
+Filter by:
+Color
+Size
+Sub-categories
+Price range 
+
+Filter and sort is implemented using PHP.
+
+The products can be displayed in two different layouts - Grid and List.
+
+There is a Map view in which different locations are pointed using markers (using Javascript)
+
+After clicking on any product, details of the product can be seen.
+There are four different pages to show the details of each category.
+
+In product details page, based on the category, individual features of the products are fetched from the database using PHP.
+
+Information of the seller is displayed along with his location (on map with a pointer)
+
+There is a BUY option if a user is interested in the product. A notification will be sent to the user.
+There is a help option to see the frequently asked questions.
+
+Based on the product, similar recommended products are displayed. User can click on any recommended product to see the details.
+
+
